@@ -1,0 +1,7 @@
+{
+  "telemetry.telemetryLevel": "off",
+  "workbench.colorTheme": "Default Dark Modern",
+  "security.workspace.trust.enabled": false,
+  "chat.disableAIFeatures": true,
+  "claudeCode.disableLoginPrompt": true
+}
